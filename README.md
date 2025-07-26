@@ -1,10 +1,9 @@
 # Hola 👋, I'm Anubhav
 
-**Full Stack Developer @ [Aviz Networks](https://aviznetworks.com)**
+**Building smarter UIs & AI agents**
 
 ### Connect with me here
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/anubhavdxt?style=flat-square)](https://peerlist.io/anubhavdxt)
 [![Linkedin Badge](https://img.shields.io/badge/-anubhavdxt-0B65C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubhavdxt/)](https://www.linkedin.com/in/anubhavdxt/)
 [![Hashnode Badge](https://img.shields.io/badge/-@anubhavdxt-2962ff?style=flat-square&logo=Hashnode&logoColor=white&link=https://anubhavdxt.hashnode.dev/)](https://anubhavdxt.hashnode.dev/)
 
@@ -13,10 +12,10 @@ const intro = {
     name: 'Anubhav',
     tech: {
         languages: [
-            JavaScript, HTML5, CSS3, Java, Python, Markdown
+            JavaScript, Python, TypeScript, Java, Dart
         ],
         frameworks: [
-            React, SCSS, Tailwind, NodeJS, Express
+            React, NodeJS, Express, Django, FastAPI
         ],
         databases: [
             MongoDB, MySQL, PostgreSQL
