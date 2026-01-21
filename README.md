@@ -1,6 +1,6 @@
 # Hola 👋, I'm Anubhav
 
-**Building smarter UIs & AI agents**
+**Building scalable systems & leveraging AI agents**
 
 ### Connect with me here
 
@@ -15,37 +15,21 @@ const intro = {
             JavaScript, Python, TypeScript, Java, Dart
         ],
         frameworks: [
-            React, NodeJS, Express, Django, FastAPI
+            NodeJS, Express, Django, FastAPI, React
         ],
         databases: [
             MongoDB, MySQL, PostgreSQL
         ]
         tools: [
-            Git, Postman, Figma, VS Code, GitHub, Vercel, Jira
+            Git, GitHub, Vercel, Kafka, Redis, Docker, K8
         ],
         platforms: [
-            Windows, Mac, Ubuntu
+            AWS, Azure, GCP
         ]
     },
 };
 
 ```
-
-### Coding Profiles
-
-[![HackerRank Badge](https://img.shields.io/badge/-Anubhavdxt-1aaa47?style=flat-square&logo=hackerRank&logoColor=white&link=https://www.hackerrank.com/Anubhavdxt)](https://hackerrank.com/Anubhavdxt)
-[![Leetcode Badge](https://img.shields.io/badge/-Anubhavdxt-e5ae50?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/Anubhavdxt/)](https://leetcode.com/Anubhavdxt/)
-[![GeeksForGeeks Badge](https://img.shields.io/badge/-anubhavdxt-3ca26b?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/anubhavdxt/)](https://auth.geeksforgeeks.org/user/anubhavdxt/)
-
-### Stats
-
-<p style="display:inline">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavdxt&layout=compact&theme=tokyonight" alt="Github Stats" width="375px" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anubhavdxt&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
-</p>
-
-[![Anubhavdxt's Holopin Board](https://holopin.me/anubhavdxt)](https://holopin.io/@anubhavdxt)
 
 <!--
 
