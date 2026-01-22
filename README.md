@@ -1,6 +1,6 @@
 # Hola 👋, I'm Anubhav
 
-**Building scalable systems & leveraging AI agents**
+**Building scalable systems leveraging AI**
 
 ### Connect with me here
 
