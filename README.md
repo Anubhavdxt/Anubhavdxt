@@ -1,22 +1,13 @@
-<div align="center">
+<img src="assets/logo.svg" width="28" align="left" alt="ad_ logo">
 
-<img src="assets/logo-dark.svg#gh-dark-mode-only" width="72" alt="ad_ logo">
-<img src="assets/logo-light.svg#gh-light-mode-only" width="72" alt="ad_ logo">
-
-# Anubhav Dixit
+# &nbsp;Anubhav Dixit
 
 **Software Engineer (AI & Backend).** I build data-intensive systems that ingest at scale,
 and the LLM tooling that sits on top of them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhavdxt-0B65C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavdxt/)
-[![Website](https://img.shields.io/badge/anubhavdxt.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anubhavdxt.com)
-
-<br>
-
-<img src="assets/terminal-dark.svg#gh-dark-mode-only" width="640" alt="Terminal: Anubhav Dixit, Software Engineer (AI and Backend). Stack: TS, Java, Kafka, AWS, PostgreSQL.">
-<img src="assets/terminal-light.svg#gh-light-mode-only" width="640" alt="Terminal: Anubhav Dixit, Software Engineer (AI and Backend). Stack: TS, Java, Kafka, AWS, PostgreSQL.">
-
-</div>
+[<img src="assets/btn-resume.svg" alt="Resume" height="32">](https://anubhavdxt.com/resume.pdf)
+[<img src="assets/btn-linkedin.svg" alt="LinkedIn" height="32">](https://www.linkedin.com/in/anubhavdxt/)
+[<img src="assets/btn-website.svg" alt="Website" height="32">](https://anubhavdxt.com)
 
 ---
 
@@ -42,41 +33,44 @@ double-counting, and how you know your pipeline is slow before a customer tells 
 - An agent that drafts and asks is more useful in an engineering team than one that acts and apologises.
 - Currently reading about how transformers actually perform arithmetic. Not for work. It just bothers me that I do not know.
 
-### Stack
+<details>
+<summary><b>Stack</b></summary>
 
 **Languages and frameworks**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-193549?style=flat-square&labelColor=193549&logo=openjdk&logoColor=ffc600)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-193549?style=flat-square&labelColor=193549&logo=springboot&logoColor=ffc600)
+![Python](https://img.shields.io/badge/Python-193549?style=flat-square&labelColor=193549&logo=python&logoColor=ffc600)
+![TypeScript](https://img.shields.io/badge/TypeScript-193549?style=flat-square&labelColor=193549&logo=typescript&logoColor=ffc600)
+![Node.js](https://img.shields.io/badge/Node.js-193549?style=flat-square&labelColor=193549&logo=nodedotjs&logoColor=ffc600)
+![FastAPI](https://img.shields.io/badge/FastAPI-193549?style=flat-square&labelColor=193549&logo=fastapi&logoColor=ffc600)
 
 **Machine learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PEFT / LoRA](https://img.shields.io/badge/PEFT_%2F_LoRA-FF6F00?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-193549?style=flat-square&labelColor=193549&logo=pytorch&logoColor=ffc600)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-193549?style=flat-square&labelColor=193549&logo=huggingface&logoColor=ffc600)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT_%2F_LoRA-193549?style=flat-square&labelColor=193549&logo=huggingface&logoColor=ffc600)
+![LangChain](https://img.shields.io/badge/LangChain-193549?style=flat-square&labelColor=193549&logo=langchain&logoColor=ffc600)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-193549?style=flat-square&labelColor=193549&logo=scikitlearn&logoColor=ffc600)
 
 **Data and messaging**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-193549?style=flat-square&labelColor=193549&logo=postgresql&logoColor=ffc600)
+![pgvector](https://img.shields.io/badge/pgvector-193549?style=flat-square&labelColor=193549&logo=postgresql&logoColor=ffc600)
+![Pinecone](https://img.shields.io/badge/Pinecone-193549?style=flat-square&labelColor=193549&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmYzYwMCIgZD0iTTEyIDEuNWMzLjggMi44IDYuNSA2LjIgNi41IDEwLjNBNi41IDYuNSAwIDAgMSAxMiAxOC4zYTYuNSA2LjUgMCAwIDEtNi41LTYuNUM1LjUgNy43MDAgOC4yMDAgNC4zMDAgMTIgMS41MDB6Ii8%2BPHBhdGggZD0iTTEyIDV2MTUuNU03LjUwMCA5LjUwMGw5IDYuNTAwTTE2LjUwMCA5LjUwMGwtOSA2LjUwMCIgc3Ryb2tlPSIjMTkzNTQ5IiBzdHJva2Utd2lkdGg9IjEuNCIgZmlsbD0ibm9uZSIvPjxyZWN0IHg9IjExIiB5PSIxOCIgd2lkdGg9IjIiIGhlaWdodD0iNC41MDAiIGZpbGw9IiNmZmM2MDAiLz48L3N2Zz4%3D)
+![Kafka](https://img.shields.io/badge/Kafka-193549?style=flat-square&labelColor=193549&logo=apachekafka&logoColor=ffc600)
+![Redis](https://img.shields.io/badge/Redis-193549?style=flat-square&labelColor=193549&logo=redis&logoColor=ffc600)
 
 **Cloud and observability**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-193549?style=flat-square&labelColor=193549&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmYzYwMCIgZD0iTTcgMTlhNSA1IDAgMCAxLS43LTkuOTVBNiA2IDAgMCAxIDE3LjkgOC40IDUuMyA1LjMgMCAwIDEgMTcuNSAxOXoiLz48L3N2Zz4%3D)
+![GCP](https://img.shields.io/badge/GCP-193549?style=flat-square&labelColor=193549&logo=googlecloud&logoColor=ffc600)
+![Docker](https://img.shields.io/badge/Docker-193549?style=flat-square&labelColor=193549&logo=docker&logoColor=ffc600)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-193549?style=flat-square&labelColor=193549&logo=kubernetes&logoColor=ffc600)
+![Prometheus](https://img.shields.io/badge/Prometheus-193549?style=flat-square&labelColor=193549&logo=prometheus&logoColor=ffc600)
+![Grafana](https://img.shields.io/badge/Grafana-193549?style=flat-square&labelColor=193549&logo=grafana&logoColor=ffc600)
+
+</details>
 
 ### Writing
 
