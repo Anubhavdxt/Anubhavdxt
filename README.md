@@ -2,20 +2,20 @@
 
 # Anubhav Dixit
 
-**Backend and AI engineer.** I build data-intensive systems that ingest at scale,
+**Software Engineer (AI & Backend).** I build data-intensive systems that ingest at scale,
 and the LLM tooling that sits on top of them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anubhavdxt-0B65C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavdxt/)
-[![Website](https://img.shields.io/badge/anubhavdxt.tech-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anubhavdxt.tech)
+[![Website](https://img.shields.io/badge/anubhavdxt.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anubhavdxt.com)
 
 </div>
 
 ---
 
-Currently at Meltwater, on services that collect social data at scale for enterprise media intelligence.
-The interesting problems there are rarely about writing endpoints. They are about what happens when a
-third-party API rate-limits you mid-collection, how you backfill a missed window without double-counting,
-and how you know your pipeline is slow before a customer tells you.
+Currently at Meltwater, working on social connection services, dealing with data at scale for enterprise
+media intelligence. The interesting problems there are rarely about writing endpoints. They are about
+keeping throughput up when a third-party API rate-limits you, how you backfill a missed window without
+double-counting, and how you know your pipeline is slow before a customer tells you.
 
 ### What I build
 
@@ -66,7 +66,7 @@ and how you know your pipeline is slow before a customer tells you.
 
 I write for engineers early in their career who want to understand how backend systems actually behave,
 and for founders making architecture decisions without a large engineering team.
-&nbsp;→&nbsp; [anubhavdxt.tech](https://anubhavdxt.tech)
+&nbsp;→&nbsp; [anubhavdxt.com/blog](https://anubhavdxt.com/blog)
 
 Happy to talk about distributed ingestion, fine-tuning small models for narrow tasks, or why your
 observability setup is probably measuring the wrong thing.
