@@ -1,13 +1,15 @@
-<img src="assets/logo.svg" width="28" align="left" alt="ad_ logo">
+<div align="center">
 
-# &nbsp;Anubhav Dixit
+# Anubhav Dixit
 
 **Software Engineer (AI & Backend).** I build data-intensive systems that ingest at scale,
 and the LLM tooling that sits on top of them.
 
-[<img src="assets/btn-resume.svg" alt="Resume" height="32">](https://anubhavdxt.com/resume.pdf)
-[<img src="assets/btn-linkedin.svg" alt="LinkedIn" height="32">](https://www.linkedin.com/in/anubhavdxt/)
-[<img src="assets/btn-website.svg" alt="Website" height="32">](https://anubhavdxt.com)
+<a href="https://anubhavdxt.com/resume.pdf"><img src="assets/btn-resume.svg" alt="Resume" height="32"></a>
+<a href="https://www.linkedin.com/in/anubhavdxt/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="32"></a>
+<a href="https://anubhavdxt.com"><img src="assets/btn-website.svg" alt="Website" height="32"></a>
+
+</div>
 
 ---
 
